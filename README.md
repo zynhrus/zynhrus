@@ -27,7 +27,6 @@ Right now I'm studying in Apple Developer Academy Batam. Thank you so much for t
 <!--START_SECTION:waka-->
 ```text
 - Work on private personal project
-- Work on Spermy Watch project MC3 from Apple Developer Academy
 - Study Swift in DiCoding
 - Learn Algorithm in AlgoExpert
 ```
