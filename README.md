@@ -26,7 +26,7 @@ Right now I'm studying in Apple Developer Academy Batam. Thank you so much for t
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-- Work on private personal project
+- Work on Macro Challange in Apple Developer Academy
 - Study Swift in DiCoding
 - Learn Algorithm in AlgoExpert
 ```
