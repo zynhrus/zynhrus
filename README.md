@@ -9,14 +9,11 @@
 
 I am a mobile developer, I love using Flutter to develop mobile app and also recently focusing to study Swift for iOS Native Mobile Development 
 
-Right now I'm studying in Apple Developer Academy Batam. Thank you so much for them to give me this scholarship for studying iOS Development. And also right now I'm also activly looking for iOS intership opportunity.
-
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently studying on [Apple Developer Academy](https://www.infinitelearning.id/);
 - 💬 Open for iOS Intern and Flutter developer opportunity and Collaboration;
 - 📫 How to reach me: albertonly898@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/1VJG5FlSrtXRY3DVgOkb9Jt7Z2Yye5HOu/view?usp=sharing).
